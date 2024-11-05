@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojabooji.github.io/YVm/sitemap_index.txt
+Sitemap: https://ojabooji.github.io/nIS/sitemap_index.txt
+Sitemap: https://ojabooji.github.io/qjl/sitemap_index.txt
+Sitemap: https://ojabooji.github.io/vWR/sitemap_index.txt
